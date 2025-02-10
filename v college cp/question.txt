@@ -1,0 +1,4 @@
+write a program to reverse a linklist using stack?
+wap to swap adjustant node?
+wap to swap nodes without swapping data?
+

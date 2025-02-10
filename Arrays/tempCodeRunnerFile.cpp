@@ -1,0 +1,1 @@
+cout << "enter" << i << 'number:' << endl;
