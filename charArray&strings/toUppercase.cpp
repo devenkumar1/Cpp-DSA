@@ -8,7 +8,7 @@ for(int i=0;i<n;i++){
     if(ch>='A' && ch<='Z'){
         continue;
     }
-    else{
+    else{ 
         arr[i]=ch-'a'+'A';
     }
 
